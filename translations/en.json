@@ -11,9 +11,8 @@
         "step": {
             "user": {
                 "data": {
-                    "host": "Host",
-                    "password": "Password",
-                    "username": "Username"
+                    "address_name": "Address name",
+                    "thermal_point": "Thermal Point"
                 }
             }
         }
