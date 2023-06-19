@@ -1,0 +1,15 @@
+{
+  "domain": "ha_bucharest_hot_water_sensor",
+  "name": "Bucharest Hot Water Sensor",
+  "codeowners": [
+    "@dumrelu"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/ha_bucharest_hot_water_sensor",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
