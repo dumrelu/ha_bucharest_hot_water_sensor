@@ -4,4 +4,4 @@ from datetime import timedelta
 DOMAIN = "ha_bucharest_hot_water_sensor"
 
 # TODO: proper interval here
-SCAN_INTERVAL = timedelta(seconds=10)
+SCAN_INTERVAL = timedelta(minutes=60)
