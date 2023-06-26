@@ -104,7 +104,8 @@ class HotWaterBinarySensor(BinarySensorEntity):
 
         # How the thermal point will appear in the table
         possible_strings = [
-            f"Punct termic: <strong>{ self.thermal_point }</strong>",
+            f"Punct termic: <strong>{ self.thermal_point }",
+            f"Punct termic: <strong> { self.thermal_point }",
             f"Punct termic: { self.thermal_point }",
         ]
 
