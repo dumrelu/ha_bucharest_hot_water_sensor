@@ -1,7 +1,7 @@
 {
   "domain": "ha_bucharest_hot_water_sensor",
   "name": "Bucharest Hot Water Sensor",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "codeowners": [
     "@dumrelu"
   ],
